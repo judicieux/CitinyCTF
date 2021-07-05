@@ -23,7 +23,8 @@ Voici le premier challenge, lisons et analysons.<br/><br/>
 <img src="https://media.discordapp.net/attachments/736537536054296636/739916447031099602/unknown.png?width=751&height=269"/><br/><br/>
 La solution se trouvait dans l'indice, si on lit bien on constate qu'il a tenté d'accentuer le mot FairPlay on y ajoutant deux majuscules. 
 Mais pourquoi ? Eh bien, j'ai tout simplement inversé les mots Fair et Play ce qui donne "Playfair", ensuite j'ai fait une simple recherche google avec les mots clés "Playfair Cipher" et voici le résultat.<br/><br/>
-<img src="https://media.discordapp.net/attachments/736537536054296636/739917427009388544/unknown.png?width=1173&height=656"/><br/></br>
+```Le Chiffre de Playfair ou Carré de Playfair est une méthode manuelle de chiffrement symétrique qui fut la première technique utilisable en pratique de chiffrement par substitution polygrammique. Il fut imaginé en 1854 par Charles Wheatstone, mais porte le nom de Lord Playfair qui popularisa son utilisation.```
+<br/></br>
 Il s'agit donc du cipher PlayFair, passons au déchiffrage. Pour ce faire, j'ai deux méthodes, soit vous le faites avec un automatisateur de tâche (par ex.: https://www.dcode.fr/chiffre-playfair), soit à la main. Personnellement j'ai opté pour la solution de le faire à la main, c'est bien plus fun. Voici comment j'ai procédé (Lisez biens les règles du Cipher PlayFair).<br/><br/>
 <img src="https://media.discordapp.net/attachments/736537536054296636/739922498069594112/unknown.png?width=965&height=242"/><br/><br/>
 ```YN``` devient ```NO```<br/><br/>
